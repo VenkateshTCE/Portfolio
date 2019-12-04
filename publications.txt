@@ -1,0 +1,330 @@
+﻿Reliability Enhancement of Small and Medium Distribution System with Renewable Generations and Reclosers
+JS Kumar, P Venkatesh, SC Raja, JJD Nesamalar, C Palanichamy
+2018 20th National Power Systems Conference (NPSC), 1-6		2018
+Optimizing renewable based generations in AC/DC microgrid system using hybrid Nelder-Mead–Cuckoo Search algorithm
+JS Kumar, SC Raja, JJD Nesamalar, P Venkatesh
+Energy 158, 204-215	4	2018
+Smart utilization of renewable energy sources in a microgrid system integrated with plug‐in hybrid electric vehicles
+S Suganya, S Charles Raja, D Srinivasan, P Venkatesh
+International Journal of Energy Research 42 (3), 1210-1224	10	2018
+Hybrid renewable energy‐based distribution system for seasonal load variations
+J Senthil kumar, S Charles Raja, D Srinivasan, P Venkatesh
+International Journal of Energy Research 42 (3), 1066-1087	14	2018
+Neural Network Based Demand Side Management Using Load Shifting
+GR Hemanth, SC Raja, S Suganya, P Venkatesh
+2018 National Power Engineering Conference (NPEC), 1-9	1	2018
+Simultaneous coordination of distinct plug-in Hybrid Electric Vehicle charging stations: A modified Particle Swarm Optimization approach
+S Suganya, SC Raja, P Venkatesh
+Energy 138, 92-102	16	2017
+Smart management of distinct plug‐in hybrid electric vehicle charging stations considering mobility pattern and site characteristics
+S Suganya, S Charles Raja, P Venkatesh
+International Journal of Energy Research 41 (14), 2268-2281	6	2017
+Fuzzy sliding-mode control with low pass filter to reduce chattering effect: an experimental validation on Quanser SRIP
+S Balamurugan, P Venkatesh, M Varatharajan
+Sādhanā 42 (10), 1693-1703	4	2017
+The drive of renewable energy in Tamilnadu: Status, barriers and future prospect
+JJD Nesamalar, P Venkatesh, SC Raja
+Renewable and Sustainable Energy Reviews 73, 115-124	12	2017
+Distributed generator and reclosers placement in distribution system with reliability consideration
+GS Priya, JS Kumar, SC Raja, P Venkatesh
+2017 Innovations in Power and Advanced Computing Technologies (i-PACT), 1-7		2017
+Mitigation of voltage disturbances using fuzzy logic controller in a grid connected DFIG for different types of fault
+S Kalaivani, T Karthick, SC Raja, P Venkatesh
+2017 Innovations in Power and Advanced Computing Technologies (i-PACT), 1-7	1	2017
+Enhancement of available transfer capability using TCSC devices in deregulated power market
+MM Karthiga, SC Raja, P Venkatesh
+2017 Innovations in Power and Advanced Computing Technologies (i-PACT), 1-7	2	2017
+Frequency response method to derive transfer function of servo motor using Quanser servo plant module and dSPACE software
+J Priya, M Vidhya, R Rambrintha, P Venkatesh
+2017
+Energy management by generator rescheduling in congestive deregulated power system
+JJD Nesamalar, P Venkatesh, SC Raja
+Applied energy 171, 357-371	13	2016
+Managing multi-line power congestion by using hybrid Nelder–Mead–fuzzy adaptive particle swarm optimization (HNM-FAPSO)
+JJD Nesamalar, P Venkatesh, SC Raja
+Applied Soft Computing 43, 222-234	23	2016
+A novel method of relieving congestion in hybrid deregulated market utilizing renewable energy sources
+JJD NESAMALAR, P Venkatesh, SC RAJA
+Turkish Journal of Electrical Engineering & Computer Sciences 24 (4), 3091-3104	2	2016
+ATC enhancement by incorporating FACTS devices for deregulating scenario in present power market
+JJD Nesamalar, K Bavithra, SC Raja, P Venkatesh
+Power Research 12 (1), 1-12		2016
+Optimal setting of FACTS devices using particle swarm optimization for ATC enhancement in deregulated power system
+K Bavithra, SC Raja, P Venkatesh
+IFAC-PapersOnLine 49 (1), 450-455	8	2016
+Dynamic available transfer capability determination in power system restructuring environment using support vector regression
+A Srinivasan, P Venkatesh, B Dineshkumar, N Ramkumar
+International Journal of Electrical Power & Energy Systems 69, 123-130	7	2015
+Optimal utilization of renewable energy sources for congestion management
+JJD Nesamalar, P Venkatesh, SC Raja
+IFAC-PapersOnLine 48 (30), 264-269	5	2015
+Design of ANFIS controller for power system stability enhancement using FACTS device
+GYS Varshini, SC Raja, P Venkatesh
+Power Electronics and Renewable Energy Systems, 1163-1171	6	2015
+Power quality improvement in a wind farm connected to grid using FACTS device
+CK Subasri, SC Raja, P Venkatesh
+Power Electronics and Renewable Energy Systems, 1203-1212	3	2015
+A New Real Time Approach for Reactive Power Control by STATCOM in Autonomous Wind-Diesel Hybrid Power System
+M Mynavathi, VK Chinnaiyan, P Venkatesh, S Balamurugan
+Power Electronics and Renewable Energy Systems, 91-99	1	2015
+Glowworm swarm optimization algorithm with topsis for solving multiple objective environmental economic dispatch problem
+DN Jayakumar, P Venkatesh
+Applied Soft Computing 23, 375-386	50	2014
+DEPARTMENT OF COMPUTER SCEINCE & ENGINEERING
+T Break
+5	2014
+Transaction charges allocation using sensitivity factor methodology
+SC Raja, JJD Nesamalar, P Venkatesh
+Sadhana 39 (2), 377-390		2014
+Allocation of Transaction Cost to Market Participants Using an Analytical Method in Deregulated Market
+S Jeyasankari, JJD Nesamalar, SC Raja, P Venkatesh
+Journal of The Institution of Engineers (India): Series B 95 (2), 83-90		2014
+Development and investigations on Silicone rubber nanocomposite Dielectrics for outdoor insulation
+P Venkatesh
+Chennai		2014
+Application of evolutionary Algorithms to power dispatch Problem
+P Venkatesh
+Chennai		2014
+Optimal generation share based dynamic available transfer capability improvement in deregulated electricity market
+A Srinivasan, P Venkatesh, B Dineshkumar
+International Journal of Electrical Power & Energy Systems 54, 226-234	8	2014
+A Perfomance study of Ann and Anfis Controller for Statcom in dSpace Environment
+SAE Xavier, P Venkatesh, M Saravanan
+Journal of Electrical Engineering 64 (3), 159-165	2	2013
+Transaction cost allocation in deregulated power system using an analytical method
+S Jeyasankari, JJD Nesamalar, SC Raja, P Venkatesh
+2013 International Conference on Energy Efficient Technologies for …	1	2013
+Design of artificial neuron controller for STATCOM in dSPACE environment
+SAE Xavier, P Venkatesh, M Saravanan
+Applied Soft Computing 13 (4), 1750-1758	2	2013
+Support vector regression based dynamic available transfer capability in deregulated power market
+A Srinivasan, N Ramkumar, B Dineshkumar, P Venkatesh
+2013 International Conference on Circuits, Power and Computing Technologies …	1	2013
+Multi‐objective optimization problem for the Thyristor Controlled Series Compensators placement with multiple decision‐making approaches
+STJ Christa, P Venkatesh
+International Transactions on Electrical Energy Systems 23 (2), 249-269	13	2013
+A new transmission charges allocation using sensitivity factor methodology
+SC Raja, JJD Nesamalar, P Venkatesh
+Australian Journal of Electrical and Electronics Engineering 10 (4), 439-448	1	2013
+Real time servo motor control of single rotary inverted pendulum using dSPACE
+R Ramesh, S Balamurugan, P Venkatesh
+International Journal of Soft Computing and Engineering (IJSCE) 3 (2), 169-173	4	2013
+Smoothing approach to alleviate the meager rating problem in collaborative recommender systems
+MKK Devi, P Venkatesh
+Future Generation Computer Systems 29 (1), 262-270	13	2013
+Available transfer capability determination incorporating reactive power flows and network uncertainties under a deregulated environment
+SC Raja, P Venkatesh, BV Manikandan, SC Srivastava
+Electric Power Components and Systems 40 (11), 1246-1265	2	2012
+Modelling and Controlling of Unified Power Flow Controller (Upfc)
+K Suresh, P Venkatesh
+International Journal of Modern Engineering Research (IJMER) 2 (4), 2574-2577	2	2012
+Electrical power systems: analysis, security and deregulation
+P Venkatesh, BV Manikandan, SC Raja, A Srinivasan
+PHI Learning Pvt. Ltd.	11	2012
+Congestion management using gams/conopt solver
+SC Raja, SAW Banu, P Venkatesh
+IEEE-International Conference On Advances In Engineering, Science And …	2	2012
+Transmission system management in restructured electricity market
+P Venkatesh
+Chennai		2012
+Design and development of dsp based facts controllers
+P Venkatesh
+Chennai		2012
+Diversity Preserved Multiobjective Evolutionary Programming Algorithm for Environmental/Economic Dispatch Problem
+DN Jayakumar, P Venkatesh
+International Review of Electrical Engineering 7 (4)		2012
+Real coded genetic algorithm based method for dynamic available transfer capability evaluation
+A Srinivasan, B Dineshkumar, P Venkatesh
+International Review of Electrical Engineering 7 (4)	3	2012
+Development of PI and Fuzzy Controllers for STATCOM in dSPACE Environment
+SAE Xavier, P Venkatesh, M Saravanan
+European Journal of Scientific Research, ISSN, 216-227	10	2012
+Real time experiment to determine transfer function of quanser servo plant
+A Brindha, S Balamurugan, P Venkatesh
+2011 INTERNATIONAL CONFERENCE ON RECENT ADVANCEMENTS IN ELECTRICAL …	4	2011
+A new transmission pricing methodology for Indian restructured market using PSS/E software
+SC Raja, R Elakkia, P Venkatesh
+2011 INTERNATIONAL CONFERENCE ON RECENT ADVANCEMENTS IN ELECTRICAL …	2	2011
+Comparison of evolutionary computation algorithms for solving bi-objective task scheduling problem on heterogeneous distributed computing systems
+P Chitra, P Venkatesh, R Rajaram
+Sadhana 36 (2), 167-180	16	2011
+Performance analysis of PMMA - TiO2 nanocomposite dielectrics
+RR Prakash, S Pandiarajan, P Venkatesh, N Kamaraj
+2011 International Conference on Emerging Trends in Electrical and Computer …	9	2011
+Transmission congestion management in restructured power systems
+SC Raja, P Venkatesh, BV Manikandan
+2011 International Conference on Emerging Trends in Electrical and Computer …	13	2011
+Application and comparison of hybrid evolutionary multiobjective optimization algorithms for solving task scheduling problem on heterogeneous systems
+P Chitra, R Rajaram, P Venkatesh
+Applied soft computing 11 (2), 2725-2734	49	2011
+Application of MOPSO and MOCLPSO for the Optimal Placement of TCSCs
+STJ Christa, P Venkatesh
+International Conference on Logic, Information, Control and Computation, 137-144	2	2011
+Multi objective optimization of transmission system performance through optimal placement of tcscs using swarm intelligent techniques
+P Venkatesh
+Chennai		2011
+Design and Development of ANFIS Controller for STATCOM in dSPACE Environment
+SAE Xavier, P Venkatesh, M Saravanan
+International Review of Electrical Engineering 6 (2)		2011
+Available Transfer Capability Determination by Incorporating Reactive Power Flow in Deregulated Power Systems
+SC Raja, P Venkatesh, BV Manikandan, SC Srivastava
+International Review of Electrical Engineering 6 (2)	2	2011
+Load balanced reliable task scheduling algorithm for heterogeneous systems
+P Chitra, R Rajaram, P Venkatesh
+Journal of High Speed Networks 18 (1), 33-45	2	2011
+Comparative study of two congestion management methods for the restructured power systems
+BV Manikandan, SC Raja, P Venkatesh, M Mandala
+Journal of Electrical Engineering and Technology 6 (3), 302-310	10	2011
+A new real time approach using dSPACE R&D Controller Board for reactive power control by SVC in autonomous wind-diesel hybrid power systems
+P Sivachandran, P Venkatesh, S Balamurugan
+International Journal of Engineering, Science and Technology 3 (5)	9	2011
+Available transfer capability enhancement with FACTS devices in the deregulated electricity market
+BV Manikandan, SC Raja, P Venkatesh
+Journal of Electrical Engineering & Technology 6 (1), 14-24	26	2011
+Modified genetic algorithm for multiobjective task scheduling on heterogeneous computing system
+OL Sathappan, P Chitra, P Venkatesh, M Prabhu
+International Journal of Information Technology, Communications and …	53	2011
+Probabilistic neural network approach to alleviate sparsity and cold start problems in collaborative recommender systems
+MKK Devi, RT Samy, SV Kumar, P Venkatesh
+2010 IEEE International Conference on Computational Intelligence and …	22	2010
+Kernel based collaborative recommender system for e-purchasing
+MKK Devi, P Venkatesh
+Sadhana 35 (5), 513-524	17	2010
+Evolutionary algorithmic approaches for solving three objectives task scheduling problem on heterogeneous systems
+P Chitra, S Revathi, P Venkatesh, R Rajaram
+2010 IEEE 2nd International Advance Computing Conference (IACC), 38-43	9	2010
+An Efficient Approach Based on Trust to Purge the Weekness of Recommendation System
+MK Devi, P Venkatesh, N Benasirsiddiqa, R Archana
+International Journal of Computer Applications 1 (25), 22-32		2010
+Backtracking along with constraint processing and their time complexities.
+H Lu, X Wang, J Liu, R Bartak, MA Salido, F Rossi, P Chitra, R Rajaram, ...
+Information Technology Journal 13 (8), 249-279		2010
+Multiobjective evolutionary computation algorithms for solving task scheduling problem on heterogeneous systems
+P Chitra, P Venkatesh
+International journal of knowledge-based and intelligent engineering systems …	8	2010
+AN EFFICIENT APPROACH BASED ON TRUST TO PURGE THE WEEKNESS OF RECOMMENDATION SYSTEM
+MKKDDP Venkatesh, NBR Archana
+International Journal of Computer Applications 975, 8887		2010
+Scheduling independent tasks on heterogeneous distributed computing systems using multiobjective optimization approach on multicore processors
+S Saranya, S Revathi, P Chitra, P Venkatesh
+2009 International Conference on Advances in Computing, Control, and …	6	2009
+An improved collaborative recommender system
+MKK Devi, P Venkatesh
+2009 First International Conference on Networks & Communications, 386-391	8	2009
+Modeling of Unified power flow controller for active power Regulation
+S Rajeswari, R Gnanadass, P Venkatesh
+Institution of engineers, Calcutta, India 90, 33-39	5	2009
+Parallel Implementation of Task Scheduling using Ant Colony Optimization
+TV Selvan, P Chitra, P Venkatesh
+International Journal of recent trends in engineering 1 (1), 339	7	2009
+IDSS: an intelligent decision support system for e-purchasing using CBR and CF
+MK Kavitha Devi, P Venkatesh
+International Journal of Agent-Oriented Software Engineering 3 (2-3), 212-229	3	2009
+ICRS: an intelligent collaborative recommender system for electronic purchasing
+MK Kavitha Devi, P Venkatesh
+International Journal of Business Excellence 2 (2), 179-193	4	2009
+Cogging torque reduction in dual-rotor permanent magnet generator for direct coupled stand-alone wind energy systems
+P Sivachandran, P Venkatesh, N Kamaraj
+2008 IEEE International Conference on Sustainable Energy Technologies, 24-28	17	2008
+Multi-area available transfer capability determination in the restructured electricity market
+BV Manikandan, SC Raja, P Venkatesh
+2008 Joint International Conference on Power System Technology and IEEE …	7	2008
+Development of intelligent controllers for statcom
+SAE Xavier, P Venkatesh, M Saravanan
+2008 Joint International Conference on Power System Technology and IEEE …	9	2008
+Available transfer capability determination in the restructured electricity market
+BV Manikandan, SC Raja, P Venkatesh, PS Kannan
+Electric Power Components and Systems 36 (9), 941-959	18	2008
+Analysis of the pareto front of a multi-objective optimization problem for a fossil fuel power plant
+JH Van Sickel, P Venkatesh, KY Lee
+2008 IEEE Power and Energy Society General Meeting-Conversion and Delivery …	18	2008
+Multi-objective evolutionary programming for economic emission dispatch problem
+P Venkatesh, KY Lee
+2008 IEEE Power and Energy Society General Meeting-Conversion and Delivery …	46	2008
+Application of particle swarm optimization for optimal placement of unified power flow controllers in electrical systems with line outages
+STJ Christa, P Venkatesh
+International Conference on Computational Intelligence and Multimedia …	15	2007
+Application of bacterial foraging technique trained artificial and wavelet neural networks in load forecasting
+M Ulagammai, P Venkatesh, PS Kannan, NP Padhy
+Neurocomputing 70 (16-18), 2659-2667	93	2007
+Application of multi objective evolutionary programming to combined economic emission dispatch problem
+DN Jeyakumar, P Venkatesh, KY Lee
+2007 International Joint Conference on Neural Networks, 1162-1167	32	2007
+A review of wind energy based decentralized power generation systems with new developments in India
+P Sivachandran, P Venkatesh, N Kamaraj
+Journal of Energy & Environment 6, 102-107	12	2007
+Application of particle swarm optimization technique for optimal location of FACTS devices considering cost of installation and system loadability
+M Saravanan, SMR Slochanal, P Venkatesh, JPS Abraham
+Electric power systems research 77 (3-4), 276-283	342	2007
+Enhancement of available transfer capability with FACTS device in competitive power market
+BV Manikandan, SC Raja, P Venkatesh
+IET Digital Library	12	2007
+Optimal Placement of Unified Power Flow Controllers: An Approach to Maximize the Loadability of Transmission Lines
+ST Christa, P Venkatesh
+Journal of Electrical Systems 2 (2), 82-94	6	2006
+Regular paper Optimal Placement of Unified Power Flow Controllers: An Approach to Maximize the Loadability of Transmission
+P Venkatesh
+J. Electrical Systems 2 (2), 82-94		2006
+Assessment of available and economic transfer capability for practical power systems with capacity benefit and transmission reliability margins
+R Gnanadass, P Venkatesh, TG Palanivelu, NP Padhy
+JOURNAL-INSTITUTION OF ENGINEERS INDIA PART EL ELECTRICAL ENGINEERING …	3	2006
+Regular paper distribution system reconfiguration for loss reduction using genetic algorithm
+L Ganesan, P Venkatesh
+J. Electrical Systems 2 (4), 198-207	22	2006
+Application of PSO technique for optimal location of FACTS devices considering system loadability and cost of installation
+M Saravanan, SMR Slochanal, P Venkatesh, PS Abraham
+2005 International Power Engineering Conference, 716-721	137	2005
+Application of Evolutionary Programming to Combined Economic and Emission Dispatch Problem
+P Venkatesh, S Balakrishnan, S Nagalakshmi, PS Kannan
+JOURNAL-INSTITUTION OF ENGINEERS INDIA PART EL ELECTRICAL ENGINEERING …		2005
+Evolutionary Programming Based Economic Dispatch of Generators with Multiple Fuel Options, Ramp Rate Limits and Prohibited Operating Zones
+R Gnanadass, P Venkatesh, TG Palanivelu, K Manivannan
+JOURNAL-INSTITUTION OF ENGINEERS INDIA PART EL ELECTRICAL ENGINEERING …	3	2005
+An improved evolutionary programming based economic load dispatch of generators with prohibited operating zones
+P Venkatesh, R Gnanadass, E Pandimeena
+JOURNAL-INSTITUTION OF ENGINEERS INDIA PART EL ELECTRICAL ENGINEERING …	7	2005
+Evolutionary programming based optimal power flow for units with non-smooth fuel cost functions
+R Gnanadass, P Venkatesh, NP Padhy
+Electric power components and systems 33 (3), 349-361	31	2004
+Available transfer capability determination using power transfer distribution factors
+P Venkatesh, R Gnanadass, NP Padhy
+International journal of emerging electric power systems 1 (2)	24	2004
+Evolutionary programming solution of economic load dispatch with combined cycle co-generation effect
+R Gnanadass, P Venkatesh, TG Palanivelu, K Manivannan
+Institute Of Engineers Journal-EL 85, 124-128	15	2004
+Comparison and application of evolutionary programming techniques to combined economic emission dispatch with line flow constraints
+P Venkatesh, R Gnanadass, NP Padhy
+IEEE Transactions on Power systems 18 (2), 688-697	401	2003
+Narayana Prasad Padhy (2003),“Comparison and Application of Evolutionary Programming Techniques to Combined Economic Emission Dispatch with Line Flow Constraints”
+P Venkatesh, R Gnanadass
+IEEE Transactions on power systems 18 (2), 688-697	5	2003
+Static security enhancement via optimal utilization of thyristor-controlled series capacitors.
+S Sutha, JW Allen, BF Wollenberg, Y Chen, A Bose, GC Ejebe, ...
+Journal of Artificial Intelligence 1 (1), 1335-1344		2003
+Power System Analysis, Computing, and Economics-Comparison and Application of Evolutionary Programming Techniques to Combined Economic Emission Dispatch With Line Flow Constraints
+P Venkatesh, R Gnanadass, NP Padhy
+IEEE Transactions on Power Systems 18 (2), 688-697		2003
+Solution of economic load dispatch problem using revolutionary programming
+P Venkatesh, PS Kannan, NP Padhy
+WATER AND ENERGY INTERNATIONAL 59 (4), 15-25		2002
+Application of micro genetic algorithm to economic load dispatch
+P Venkatesh, PS Kannan, S Anudevi
+Journal of the Institution of Engineers(India): Electrical Engineering …	11	2001
+Application of computational intelligence to economic load dispatch
+P Venkatesh, PS Kannan, M Sudhakaran
+JOURNAL-INSTITUTION OF ENGINEERS INDIA PART EL ELECTRICAL ENGINEERING …	12	2000
+PERFORMANCEANALYSIS OF CERAMIC AND CARBIDE CUTTING TOOLS IN MACHINING OF EN36
+S Balamurugan, AL Tamizharasan, P Venkatesh, S Gopalakrishnan, ...
+Kernel based collaborative recommender system for 𝑒-purchasing
+MKK Devi, MKK Devi, P Venkatesh, P Venkatesh
+Sadhana 35 (05)		
+Non Conventional Power Generation by Using Hybrid Wind-Solar Energy System
+SPR Reddy, P Venkatesh
+Journal Information Journal Information
+K Vacek, S Vacková, Š Václavíková, B Vahidi, O Váhovský, J Vajda, ...
+Real Time Control of Magnetic-Ball-Suspension System Using dSPACE DS1104
+P Venkatesh, S Balamurugan
+A Novel Approach to Reliable Task Scheduling Algorithm for Heterogeneous Systems
+PS Sankari, P Chitra, S Revathi, S Deepitha, P Venkatesh
+Assessment of Available Transfer Capability in Combined Economic Emission Dispatch Environment
+P Venkatesh, R Gnanadass, NP Padhy
